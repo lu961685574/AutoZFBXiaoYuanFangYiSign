@@ -39,7 +39,7 @@ zddlwz = '江西省赣州市南康区天马山大道2号西南方向90米'
 # ##########SERVER酱配置###############
 # #SERVER酱Turbo升级版新官网 sct.ftqq.com
 # 是否开启SERVER酱通知 0表示关闭 1表示开启
-server_chan =0
+server_chan =1
 # SERVER酱sendkey，两侧的引号别丢了
 # 查看网址 sct.ftqq.com/sendkey
 # 免费版可每日发送五条推送
