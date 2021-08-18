@@ -54,3 +54,39 @@ SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"invaliduser\":\"\",\"ms
 
 
 
+2021-08-18 18:47:37.690714
+输入定位签到模式
+单人签到模式
+当前IP：40.122.49.244,
+
+ 美国艾奥瓦州得梅因Microsoft数据中心
+
+系统时间：2021-08-18 18:47:38
+UTC时间：2021-08-18 19:47:37
+北京时间：2021-08-19 02:47:37
+北京时间与系统时间误差：7:59:58.264347
+2021-08-18 18:47:38.735703:20131614签到开始
+cookie文件存在
+cookie文件加载成功
+NAME卢俊宇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 114.774429，25.648316，江西省赣州市南康区天马山大道2号西南方向90米
+{"status":0,"result":{"location":{"lng":114.78587922612643,"lat":25.65102979120475},"formatted_address":"江西省赣州市南康区G105辅路","business":"东山,塔垇","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"南康区","town":"","town_code":"","adcode":"360703","street":"G105辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E5%8D%97%E5%BA%B7%E5%8C%BA&street=%E5%A4%A9%E9%A9%AC%E5%B1%B1%E5%A4%A7%E9%81%932%E5%8F%B7%E8%A5%BF%E5%8D%97%E6%96%B9%E5%90%9190%E7%B1%B3&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%8D%97%E5%BA%B7%E5%8C%BA%E5%A4%A9%E9%A9%AC%E5%B1%B1%E5%A4%A7%E9%81%932%E5%8F%B7%E8%A5%BF%E5%8D%97%E6%96%B9%E5%90%9190%E7%B1%B3&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E5%8D%97%E5%BA%B7%E5%8C%BA&bstreet=%E5%A4%A9%E9%A9%AC%E5%B1%B1%E5%A4%A7%E9%81%932%E5%8F%B7%E8%A5%BF%E5%8D%97%E6%96%B9%E5%90%9190%E7%B1%B3&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E5%8D%97%E5%BA%B7%E5%8C%BA&lng=114.774453&lat=25.648303&sfby=1
+NAME卢俊宇
+定位 114.774453，25.648303，江西省赣州市南康区天马山大道2号西南方向90米
+{"status":0,"result":{"location":{"lng":114.78588737750916,"lat":25.650979604306835},"formatted_address":"江西省赣州市南康区G105辅路","business":"东山,塔垇","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"南康区","town":"","town_code":"","adcode":"360703","street":"G105辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E5%8D%97%E5%BA%B7%E5%8C%BA&street=%E5%A4%A9%E9%A9%AC%E5%B1%B1%E5%A4%A7%E9%81%932%E5%8F%B7%E8%A5%BF%E5%8D%97%E6%96%B9%E5%90%9190%E7%B1%B3&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%8D%97%E5%BA%B7%E5%8C%BA%E5%A4%A9%E9%A9%AC%E5%B1%B1%E5%A4%A7%E9%81%932%E5%8F%B7%E8%A5%BF%E5%8D%97%E6%96%B9%E5%90%9190%E7%B1%B3&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E5%8D%97%E5%BA%B7%E5%8C%BA&bstreet=%E5%A4%A9%E9%A9%AC%E5%B1%B1%E5%A4%A7%E9%81%932%E5%8F%B7%E8%A5%BF%E5%8D%97%E6%96%B9%E5%90%9190%E7%B1%B3&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E5%8D%97%E5%BA%B7%E5%8C%BA&lng=114.774461&lat=25.648253&sfby=1
+签到成功
+2021-08-18 18:47:58.155269:20131614签到结束
+卢俊宇20131614签到成功！
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"invaliduser\":\"\",\"msgid\":\"fcLc6UhB2absSaoEDgOVFAblIC36MRcV90XiX_3Sc000blrh_ZozIKAUVbwQkvm09HXJ62H-fBwGkpeDzXxtkQ\"}"
+2021-08-18 18:48:01.853066程序结束
+######################################################################
+
+
+
+
