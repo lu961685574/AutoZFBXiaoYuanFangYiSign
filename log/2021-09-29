@@ -54,3 +54,39 @@ SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"invaliduser\":\"\",\"ms
 
 
 
+2021-09-29 18:45:04.505781
+输入定位签到模式
+单人签到模式
+当前IP：52.156.75.92,
+
+ 美国Microsoft公司
+
+系统时间：2021-09-29 18:45:11
+UTC时间：2021-09-29 19:45:10
+北京时间：2021-09-30 02:45:09
+北京时间与系统时间误差：7:59:57.421660
+2021-09-29 18:45:11.578397:20131614签到开始
+cookie文件存在
+cookie文件加载成功
+NAME卢俊宇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.912239，28.593585，江西省南昌市青云谱区气象路58号江西信息应用职业技术学院
+{"status":0,"result":{"location":{"lng":115.92341225605742,"lat":28.59659669362058},"formatted_address":"江西省南昌市南昌县莲西路","business":"迎宾中大道,岱山,迎宾北大道","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"莲西路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E9%9D%92%E4%BA%91%E8%B0%B1%E5%8C%BA%E6%B0%94%E8%B1%A1%E8%B7%AF58%E5%8F%B7%E6%B1%9F%E8%A5%BF%E4%BF%A1%E6%81%AF%E5%BA%94%E7%94%A8%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E9%9D%92%E4%BA%91%E8%B0%B1%E5%8C%BA%E6%B0%94%E8%B1%A1%E8%B7%AF58%E5%8F%B7%E6%B1%9F%E8%A5%BF%E4%BF%A1%E6%81%AF%E5%BA%94%E7%94%A8%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E9%9D%92%E4%BA%91%E8%B0%B1%E5%8C%BA%E6%B0%94%E8%B1%A1%E8%B7%AF58%E5%8F%B7%E6%B1%9F%E8%A5%BF%E4%BF%A1%E6%81%AF%E5%BA%94%E7%94%A8%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.912142&lat=28.593657&sfby=1
+NAME卢俊宇
+定位 115.912142，28.593657，江西省南昌市青云谱区气象路58号江西信息应用职业技术学院
+{"status":0,"result":{"location":{"lng":115.9234881591109,"lat":28.596503864605745},"formatted_address":"江西省南昌市南昌县莲西路","business":"迎宾中大道,岱山,迎宾北大道","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"莲西路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E9%9D%92%E4%BA%91%E8%B0%B1%E5%8C%BA%E6%B0%94%E8%B1%A1%E8%B7%AF58%E5%8F%B7%E6%B1%9F%E8%A5%BF%E4%BF%A1%E6%81%AF%E5%BA%94%E7%94%A8%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E9%9D%92%E4%BA%91%E8%B0%B1%E5%8C%BA%E6%B0%94%E8%B1%A1%E8%B7%AF58%E5%8F%B7%E6%B1%9F%E8%A5%BF%E4%BF%A1%E6%81%AF%E5%BA%94%E7%94%A8%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E9%9D%92%E4%BA%91%E8%B0%B1%E5%8C%BA%E6%B0%94%E8%B1%A1%E8%B7%AF58%E5%8F%B7%E6%B1%9F%E8%A5%BF%E4%BF%A1%E6%81%AF%E5%BA%94%E7%94%A8%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.912218&lat=28.593564&sfby=1
+签到成功
+2021-09-29 18:45:36.757049:20131614签到结束
+卢俊宇20131614签到成功！
+SERVER发送成功："{\"errcode\":0,\"errmsg\":\"ok\",\"invaliduser\":\"\",\"msgid\":\"-_wb7pjJ4mygal2bV3oDhpuC9KdHKglS6D2zipFUg0hqP5GrN-3QYO5O_-AtxOZ3SCrEpAjrJ5YoKhyWFdlwMg\"}"
+2021-09-29 18:45:39.799531程序结束
+######################################################################
+
+
+
+
